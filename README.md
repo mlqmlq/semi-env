@@ -77,12 +77,6 @@ For more details regarding examples and arguments, please review the help page:
 ?semienv::globaleff
 ```
 
-  
-
-## Maintainer information
-
-Jixin Wang ([jw135@rice.edu])
-
 
 ## References
 
