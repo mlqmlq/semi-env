@@ -81,7 +81,7 @@ For more details regarding examples and arguments, please review the help page:
 
 ## Maintainer information
 
-XXX XXXX ([XX@XX.edu](mailto:XX@XX.edu))
+Jixin Wang ([jw135@rice.edu])
 
 
 ## References
