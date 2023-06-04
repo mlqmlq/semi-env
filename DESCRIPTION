@@ -1,0 +1,14 @@
+Package: semienv
+Type: Package
+Title: Estimate Enveloped Central Space by Semiparametric Methods
+Version: 0.1.0
+Author: XX XX, XX XX, XX XX, XX XX
+Maintainer: XX XX<XXX@XXX.edu>
+Description: This package implements the GMM estimator, nGMMenv3(); the semiparametrically local efficient estimator, localeff(); and the semiparametrically global efficient estimator, globaleff() of enveloped central space. Additionally, this package implements the estimator of the dimension of Enveloped central space via the GMM estimator, GMMdim(). The package also implements the semiparametrically efficient estimator of dimension reduction subspace, effSDR().
+License: GPL-2
+Encoding: UTF-8
+RoxygenNote: 7.1.2
+Imports: caret, pracma, pls, orthoDr, Renvlp, TRES, mvtnorm
+Depends: MASS, ks, np
+NeedsCompilation: no
+Packaged: 2023-05-11 15:38:14 UTC; Jixin Wang
